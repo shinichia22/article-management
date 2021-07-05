@@ -1,0 +1,6 @@
+com/abhishek/ArticlemanagmentApplication.class
+com/abhishek/service/ArticleService.class
+com/abhishek/service/ArticleServiceImpl.class
+com/abhishek/controller/ArticleController.class
+com/abhishek/model/Article.class
+com/abhishek/repository/ArticleRepository.class
