@@ -25,7 +25,7 @@ body {
 	height: 250px;
 	font-weight: bold;
 	text-align: center;
-	background: #07acf2;
+	background: #048ec9;
 	transition: .3s; &. small { height : 70px;
 	box-shadow: 0 0 5px rgba(black, .2);
 	&
