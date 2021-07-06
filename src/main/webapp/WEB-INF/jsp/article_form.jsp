@@ -25,7 +25,7 @@
 				<form:input path="title" cssClass="form-control" id="title" />
 			</div>
 			<div class="form-group">
-				<label>Category</label>
+				<label>Article</label>
 				<form:input path="category" cssClass="form-control" id="category" />
 			</div>
 			<button type="submit" class="btn btn-primary">Save</button>
