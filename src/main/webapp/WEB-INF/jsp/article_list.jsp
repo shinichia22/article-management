@@ -20,7 +20,7 @@
 			<thead>
 				<th scope="row">#ID</th>
 				<th scope="row">Title</th>
-				<th scope="row">Article</th>
+				<th scope="row">Story</th>
 				<th scope="row">Update</th>
 				<th scope="row">Delete</th>
 			</thead>
